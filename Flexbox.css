@@ -1,0 +1,191 @@
+section{
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.parent1{
+    height: 50%;
+    width: 50%;
+    border: 4px aqua;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 6px;
+}
+
+.child1{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.child2{
+    background-color:brown;
+    height: 100%;
+    width: 50%
+}
+
+
+.parent2{
+    height: 50%;
+    width: 50%;
+    border: 4px aqua;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 6px;
+}
+
+.child3{
+    display: flex;
+    justify-content: flex-start;
+    align-items:end;
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.child4{
+    display: flex;
+    justify-content: flex-end;
+    align-items:start;
+    background-color: brown;
+    height: 100%;
+    width: 50%
+}
+
+.anak1{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50%;
+    width: 50%;
+    background-color: rgb(48, 73, 212);
+}
+
+.anak2{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(48, 73, 212);
+    height: 50%;
+    width: 50%
+}
+
+
+.parent3{
+    height: 50%;
+    width: 50%;
+    border: 4px aqua;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 6px;
+}
+
+.child5{
+    display: flex;
+    justify-content: flex-start;
+    align-items:end;
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.child6{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: brown;
+    height: 100%;
+    width: 50%
+}
+
+.child7{
+    display: flex;
+    justify-content: flex-end;
+    align-items:start;
+    background-color: aquamarine;
+    height: 100%;
+    width: 50%
+}
+
+.anak3{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50%;
+    width: 25%;
+    background-color: rgb(86, 89, 238);
+}
+
+
+.parent4{
+    height: 50%;
+    width: 50%;
+    border: 4px aqua;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 6px;
+}
+
+.child8{
+    display: flex;
+    justify-content: flex-start;
+    align-items:end;
+    height: 100%;
+    width: 25%;
+    background-color: aquamarine;
+}
+
+.child9{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: brown;
+    height: 100%;
+    width: 25%
+}
+
+.child10{
+    display: flex;
+    justify-content: flex-end;
+    align-items:start;
+    background-color: aquamarine;
+    height: 100%;
+    width: 25%
+}
+
+.child11{
+    row-gap: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items:start;
+    height: 100%;
+    width: 25%
+}
+
+.anak4{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50%;
+    width: 100%;
+    background-color: rgb(86, 89, 238);
+}
+
+.anak5{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50%;
+    width: 100%;
+    background-color: rgb(213, 86, 238);
+}
+
+
+
+
